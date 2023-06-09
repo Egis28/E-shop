@@ -1,5 +1,7 @@
-import { BrowserRouter as Router } from "react-router-dom";
-import  Container  from 'react-bootstrap/Container';
+import {   BrowserRouter as Router } from "react-router-dom";
+
+import Container from 'react-bootstrap/Container';
+
 import ProductList from './components/ProductList';
 import MyHeader from "./components/MyHeader";
 
